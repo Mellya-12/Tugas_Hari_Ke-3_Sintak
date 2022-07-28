@@ -1,0 +1,16 @@
+.home-navbar:hover {
+  color: blue !important;
+}
+.link-navbar:hover {
+  color: blue !important;
+}
+
+header {
+  background-color: black;
+  color: black;
+  padding: 10px;
+}
+div {
+  background-color: none;
+  padding: 10px;
+}
